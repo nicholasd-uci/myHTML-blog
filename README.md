@@ -8,9 +8,11 @@
 
 ![bootstrap logo](./photos/bootstrap.png)
 
-> The article goes into a brief example of what Bootstrap is by using the actual blog itself as the example. 
+```
+- The article goes into a brief example of what Bootstrap is by using the actual blog itself as the example. 
 
-> In this blog I talk about what bootstrap is and some other UI frameworks that are good for beginners to Jr. level developers.
+- In this blog I talk about what bootstrap is and some other UI frameworks that are good for beginners to Jr. level developers.
+```
 
 ![frontEnd logo](./photos/frontEnd.png)
 
