@@ -1,0 +1,78 @@
+
+body{
+    font-size: 20px;
+}
+
+#space{
+    margin-left: 98px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+#happyCoding{
+    font-family: monospace;
+}
+h4{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.indent{
+    text-indent: 2.0em;
+}
+
+.centerP{
+    text-align: center;
+}
+.boxP{
+    text-align: center;
+}
+#bsLink{
+    text-decoration: underline;
+}
+.Effect:hover{
+    background-color: darkorchid;
+    color: whitesmoke;
+}
+.superEffect:hover{
+    background-color: black;
+    color: red;
+}
+
+
+
+/* Teacher Example of certain tags */
+
+/* #myHeading {
+    color: red;
+    font-size: 100px;
+    border: 6px; 
+} */
+
+/* #myDiv {
+    border: 5px solid black;
+
+    
+} */
+
+/* #myNav {
+    background-color: blue;
+    padding: 50px;
+} */
+
+/* #box {
+    background-color: red;
+    margin: 30px;
+} */
+
+/* .square {
+    background-color: seagreen;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 50px;
+    display: inline-block
+} */
