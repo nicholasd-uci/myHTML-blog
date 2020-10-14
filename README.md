@@ -31,7 +31,7 @@ Feel free to email me at Nicholas.dallas0@gmail.com
 
 ## LINKS
 
-- [Code Refactor Link] Coming Soon!
+- [HTML Blog Link] Coming Soon!
 - [Github Repo Link](https://github.com/nicholasd-uci/myHTML-blog)
 
 - - -
