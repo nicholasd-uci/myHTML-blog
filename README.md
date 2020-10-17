@@ -1,4 +1,4 @@
-# htmlcss3 
+# myHTML Blog
 ```
 - In this project I found my FAVORITE EMOJI EVER! 
 - I'm a BIG SPACE GUY!!
