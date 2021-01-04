@@ -31,8 +31,10 @@ Feel free to email me at Nicholas.dallas0@gmail.com
 
 ## LINKS
 
-- [HTML Blog Link] Coming Soon!
+- [HTML Blog Link]()
 - [Github Repo Link](https://github.com/nicholasd-uci/myHTML-blog)
+- [Nicholas Dallas GitHub](https://github.com/nicholasd-uci)
+
 
 - - -
 © 2020 NPRD, Nicholas Paul Ruiz Dallas
