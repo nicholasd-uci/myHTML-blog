@@ -32,7 +32,7 @@ Feel free to email me at Nicholas.dallas0@gmail.com
 ## LINKS
 
 - [HTML Blog Link](https://nicholasd-uci.github.io/myHTML-blog/)
-- [Github Repo Link](https://github.com/nicholasd-uci/myHTML-blog)
+- [GitHub Repo Link](https://github.com/nicholasd-uci/myHTML-blog)
 - [Nicholas Dallas GitHub](https://github.com/nicholasd-uci)
 
 
